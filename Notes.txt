@@ -3,7 +3,7 @@ git clone https://github.com/coqui-ai/TTS
 pip install -e .[all,dev,notebooks]  # Select the relevant extras
 
 
-2. Cài đặt môi trường: các file txt requirements
+2. Cài đặt môi trường: các file txt requirements  ==> setup.py
 
 3. Chỉnh sửa code cho hỗ trợ tiếng việt
 	- TTS\tts\layers\xtts\tokenizer.py
